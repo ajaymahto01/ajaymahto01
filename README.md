@@ -63,9 +63,9 @@ I’ve also contributed to reliability and infrastructure automation at **Grab**
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaymahto01/)  
-📧 Email: *(add your email here)*  
+📧 Email: *aj.mahto01@gmail.com*  
 
 ---
 
 ### ⚡ Fun Fact
-I treat every incident like a crime scene — **logs are my fingerprints** 🕵️‍♂️
+I treat every incident like a crime scene — **logs are my fingerprints** - Vatican Cameos🕵️‍♂️
