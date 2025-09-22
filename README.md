@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I’m Ajay Kumar Mahto</h1>
-<p align="center">🚀 Lead DevOps / Site Reliability Engineer @ NPCI | Infrastructure • Automation • Observability • DevSecOps</p>
+<p align="center">🚀 Site Reliability Engineer @ UPI | Infrastructure • Automation • Observability • DevSecOps</p>
 
 ---
 
