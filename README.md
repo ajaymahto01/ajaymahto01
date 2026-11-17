@@ -1,12 +1,12 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I’m Ajay Kumar Mahto</h1>
-<p align="center">🚀 Site Reliability Engineer @ UPI | Infrastructure • Automation • Observability • DevSecOps</p>
+<p align="center">🚀 Platform Engineer @ NPCI | Infrastructure • Automation • Observability • DevSecOps</p>
 
 ---
 
 ### 🔍 About Me
 
-I’m a **Site Reliability Engineer** with nearly a decade of experience managing, scaling, and automating large-scale infrastructure and microservices.  
+I’m a **Platform Engineer** with a decade of experience managing, scaling, and automating large-scale infrastructure and microservices.  
 At **NPCI (National Payments Corporation of India)**, I drive initiatives to:
 
 - Modernize tech stacks and revamp data center deployments  
